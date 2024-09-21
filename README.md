@@ -1,2 +1,2 @@
 # python-2
- python
+ Possui alguns projeto que fiz na hasthag e um desafio tecnico de lógica e raciocinio
