@@ -10,3 +10,4 @@ Atualmente, este repositório possui 5 arquivos:
 2. **Uma Análise de Dados do BTC**
 3. **Um Desafio Técnico de Lógica de Programação**
 4. **Uma Rede Neural Básica**
+5. **Análise mais previsões do naufrágio do titanic**
