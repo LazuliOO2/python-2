@@ -11,4 +11,4 @@ Atualmente, este repositório possui 6 arquivos:
 3. **Um Desafio Técnico de Lógica de Programação**
 4. **Uma Rede Neural Básica**
 5. **Análise mais previsões do naufrágio do titanic**
-6. **WebScraping usado o selenium**
+6. **WebScraping usando o selenium**
