@@ -12,3 +12,4 @@ Atualmente, este repositório possui 6 arquivos:
 4. **Uma Rede Neural Básica**
 5. **Análise mais previsões do naufrágio do titanic**
 6. **WebScraping usando o selenium**
+7. **Análise de ações usando o streamlit e API do gemini**
