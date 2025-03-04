@@ -10,11 +10,11 @@ Este repositório é focado exclusivamente em projetos Python. Caso um projeto e
 
 ### 2 Aulas da Hashtag
 
-**Aula 1 - Série de automação utilizando pyAutoGui**
+**Aula 1 - Automação de produtos utilizando pyAutoGui**
 
 ---
 
-**Aula 3 - Série de análise do score de clientes utilizando inteligência artificial**
+**Aula 3 - Análise e previsão do score de clientes utilizando inteligência artificial**
 
 ---
 
