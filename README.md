@@ -1,15 +1,53 @@
 # Repositório Focado em Python
 
-Este repositório será focado exclusivamente em Python. Caso envolva mais de uma linguagem, estará em outro repositório.
+Este repositório é focado exclusivamente em projetos Python. Caso um projeto envolva outras linguagens, será armazenado em outro repositório.
 
-## Conteúdo Atual
+---
 
-Atualmente, este repositório possui 6 arquivos:
+## Projetos Python no Repositório
 
-1. **2 Aulas da Hashtag**
-2. **Uma Análise de Dados do BTC**
-3. **Um Desafio Técnico de Lógica de Programação**
-4. **Uma Rede Neural Básica**
-5. **Análise mais previsões do naufrágio do titanic**
-6. **WebScraping usando o selenium**
-7. **Análise de ações usando o streamlit e API do gemini**
+---
+
+### 2 Aulas da Hashtag
+
+**Aula 1 - Série de automação utilizando pyAutoGui**
+
+---
+
+**Aula 3 - Série de análise do score de clientes utilizando inteligência artificial**
+
+---
+
+### Análise de Dados do BTC
+
+**Descrição:** Análise exploratória de dados históricos do Bitcoin (BTC), utilizando Python e bibliotecas como Pandas e Matplotlib para visualizar tendências e padrões.
+
+---
+
+### Desafio Técnico de Lógica de Programação
+
+**Descrição:** Resolução de um desafio técnico de lógica de programação utilizando Python.
+
+---
+
+### Rede Neural Básica
+
+**Descrição:** Implementação de uma rede neural básica utilizando Python.
+
+---
+
+### Análise e Previsões do Naufrágio do Titanic
+
+**Descrição:** Análise exploratória do conjunto de dados do naufrágio do Titanic, com previsões de sobrevivência utilizando modelos de machine learning em Python.
+
+---
+
+### Web Scraping com Selenium
+
+**Descrição:** Extração de dados de websites utilizando a biblioteca Selenium em Python, automatizando a coleta de informações e a interação com páginas dinâmicas.
+
+---
+
+### Análise de Ações com Streamlit e API do Gemini
+
+**Descrição:** Desenvolvimento de uma aplicação Streamlit para análise de ações, integrando a API do Gemini para fornecer informações e insights adicionais sobre o mercado financeiro.
