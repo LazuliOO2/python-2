@@ -12,7 +12,6 @@ Este repositório é focado exclusivamente em projetos Python. Caso um projeto e
 
 **Aula 1 - Automação de produtos utilizando pyAutoGui**
 
----
 
 **Aula 3 - Análise e previsão do score de clientes utilizando inteligência artificial**
 
