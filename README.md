@@ -2,11 +2,11 @@
 
 Este repositório é focado exclusivamente em projetos Python. Caso um projeto envolva outras linguagens, será armazenado em outro repositório.
 
----
+
 
 ## Projetos Python no Repositório
 
----
+
 
 ### 2 Aulas da Hashtag
 
