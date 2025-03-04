@@ -23,7 +23,7 @@ pyautogui.moveTo(x=790, y=371)
 pyautogui.click()    
 
 # Logar
-pyautogui.write("olazulioo2@gmail.com")
+pyautogui.write("teste@gmail.com")
 pyautogui.press("tab")
 pyautogui.write("1234")
 pyautogui.press("tab")
